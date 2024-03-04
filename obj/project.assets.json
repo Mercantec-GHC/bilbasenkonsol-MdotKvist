@@ -2,48 +2,48 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Class Domain Models/1.0.0": {
+      "ClassLibrary1/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
-          "bin/placeholder/Class Domain Models.dll": {}
+          "bin/placeholder/ClassLibrary1.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Class Domain Models.dll": {}
+          "bin/placeholder/ClassLibrary1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Class Domain Models/1.0.0": {
+    "ClassLibrary1/1.0.0": {
       "type": "project",
-      "path": "../Class - Domain Models/Class Domain Models.csproj",
-      "msbuildProject": "../Class - Domain Models/Class Domain Models.csproj"
+      "path": "../ClassLibrary1/ClassLibrary1.csproj",
+      "msbuildProject": "../ClassLibrary1/ClassLibrary1.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Class Domain Models >= 1.0.0"
+      "ClassLibrary1 >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MAGS\\.nuget\\packages\\": {},
+    "C:\\Users\\kvist\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\BilbasenKonsol.csproj",
+      "projectUniqueName": "C:\\Users\\kvist\\Documents\\GitHub\\bilbasenkonsol-MdotKvist\\BilbasenKonsol.csproj",
       "projectName": "BilbasenKonsol",
-      "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\BilbasenKonsol.csproj",
-      "packagesPath": "C:\\Users\\MAGS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\BilbasenKonsol\\obj\\",
+      "projectPath": "C:\\Users\\kvist\\Documents\\GitHub\\bilbasenkonsol-MdotKvist\\BilbasenKonsol.csproj",
+      "packagesPath": "C:\\Users\\kvist\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kvist\\Documents\\GitHub\\bilbasenkonsol-MdotKvist\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\MAGS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kvist\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -59,8 +59,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Class Domain Models.csproj": {
-              "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Class Domain Models.csproj"
+            "C:\\Users\\kvist\\Documents\\GitHub\\ClassLibrary1\\ClassLibrary1.csproj": {
+              "projectPath": "C:\\Users\\kvist\\Documents\\GitHub\\ClassLibrary1\\ClassLibrary1.csproj"
             }
           }
         }
@@ -90,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

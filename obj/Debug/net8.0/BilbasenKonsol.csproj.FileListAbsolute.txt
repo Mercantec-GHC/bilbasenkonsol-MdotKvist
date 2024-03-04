@@ -17,3 +17,22 @@ C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\Class Domain Mode
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\Class Domain Models.pdb
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.AssemblyReference.cache
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.CopyComplete
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\BilbasenKonsol.dll
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\refint\BilbasenKonsol.dll
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\BilbasenKonsol.pdb
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\bin\Debug\net8.0\BilbasenKonsol.exe
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\bin\Debug\net8.0\BilbasenKonsol.deps.json
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\bin\Debug\net8.0\BilbasenKonsol.runtimeconfig.json
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\bin\Debug\net8.0\BilbasenKonsol.dll
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\bin\Debug\net8.0\BilbasenKonsol.pdb
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\bin\Debug\net8.0\ClassLibrary1.dll
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\bin\Debug\net8.0\ClassLibrary1.pdb
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\BilbasenKonsol.csproj.AssemblyReference.cache
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\BilbasenKonsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\BilbasenKonsol.AssemblyInfoInputs.cache
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\BilbasenKonsol.AssemblyInfo.cs
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\BilbasenKonsol.csproj.CoreCompileInputs.cache
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\BilbasenKonsol.sourcelink.json
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\BilbasenKonsol.csproj.CopyComplete
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\BilbasenKonsol.genruntimeconfig.cache
+C:\Users\kvist\Documents\GitHub\bilbasenkonsol-MdotKvist\obj\Debug\net8.0\ref\BilbasenKonsol.dll
