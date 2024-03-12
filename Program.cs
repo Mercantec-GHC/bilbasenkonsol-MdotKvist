@@ -199,8 +199,6 @@ namespace BilbasenKonsol
             {
                 Console.WriteLine("Enter fuel type: ");
                 string filterFuel = Console.ReadLine();
-
-
                 DisplayVechicleFuel(filterFuel);
             }
         }
@@ -219,7 +217,6 @@ namespace BilbasenKonsol
                     count++;
                 }
                 Console.WriteLine($"Total search: {count}");
-
             }
             else
             {
@@ -235,7 +232,6 @@ namespace BilbasenKonsol
                     }
                 }
                 Console.WriteLine($"Total search: {count}");
-
             }
 
         }
